@@ -4,6 +4,7 @@
 /**
  * 
  */
-module javaProgrammingApprentice
-{
+module javaProgrammingApprentice{
+requires java.desktop;
+
 }
