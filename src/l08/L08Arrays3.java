@@ -1,6 +1,6 @@
 package l08;
 
-public class L08Arrays
+public class L08Arrays3
 {
 
 	public static void main(String[] args)
@@ -60,9 +60,6 @@ public class L08Arrays
 		System.out.println("Sum of all grades: " + sum); // sum of all scores
 		System.out.println("This for each loop ran: " + counter + " times"); // count the number of scores
 		
-		
-		System.out.println("The elements in scores3 are: " +scores3 ); // prints out memory address only, not the elements in the array!
-		System.out.println("The elements in scores3 are: " +java.util.Arrays.toString(scores3) ); // prints out the elements in the array	
 	}
 
 }
